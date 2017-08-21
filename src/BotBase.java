@@ -9,7 +9,7 @@ import javafx.scene.paint.Color;
 public class BotBase extends Robot {
 	
 	//Using constants is good style, no magic numbers
-	public static final Color BOT_COLOR = Color.CHARTREUSE;
+	public static final Color green = Color.CHARTREUSE;
 	public static final int DIFFICULTY = 1;
 	
 	public static void main(String[] args){
